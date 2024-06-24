@@ -3,7 +3,7 @@ body {
     color: #2F4F4F;
     margin: 0;
     padding: 0;
-    background-color: #D3D3D3;
+    background-color: #F2DDDE; /* Główne tło strony */
 }
 
 header {
@@ -73,8 +73,8 @@ nav a {
     padding: 0.5rem 1rem;
     font-size: 1.2rem;
     border: none;
-    background-color: #FFA07A;
-    color: #FFFFFF;
+    background-color: #F2DDDE; /* Kolor akcentujący */
+    color: #2F4F4F;
     border-radius: 5px;
     cursor: pointer;
 }
@@ -89,7 +89,7 @@ nav a {
 .category {
     padding: 0.5rem 1rem;
     font-size: 1.2rem;
-    border: 2px solid #FFA07A;
+    border: 2px solid #F2DDDE; /* Kolor obramowania */
     color: #2F4F4F;
     background-color: #FFFFFF;
     border-radius: 5px;
@@ -114,7 +114,7 @@ nav a {
 .event-img-placeholder {
     width: 200px;
     height: 150px;
-    background-color: #D3D3D3;
+    background-color: #F2DDDE; /* Kolor tła dla placeholdera */
     border-radius: 10px;
     margin-bottom: 1rem;
 }

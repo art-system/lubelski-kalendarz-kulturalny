@@ -3,11 +3,11 @@ body {
     color: #2F4F4F;
     margin: 0;
     padding: 0;
-    background-color: #F2DDDE; /* Główne tło strony */
+    background-color: #FFFFFF; /* Główne tło strony */
 }
 
 header {
-    background-color: #2F4F4F;
+    background-color: #2F4F4F; /* Szary nagłówek */
     color: #FFFFFF;
     padding: 1rem 0;
 }
@@ -39,8 +39,8 @@ nav a {
 }
 
 .hero {
-    background-color: #2F4F4F;
-    color: #FFFFFF;
+    background-color: #F2DDDE; /* Kolor tła hero */
+    color: #2F4F4F;
     text-align: center;
     padding: 5rem 0;
 }
@@ -48,11 +48,13 @@ nav a {
 .hero h1 {
     font-size: 3rem;
     font-family: 'Lora', serif;
+    color: #2F4F4F;
 }
 
 .hero p {
     font-size: 1.5rem;
     margin-bottom: 2rem;
+    color: #2F4F4F;
 }
 
 .search-form {
@@ -64,16 +66,17 @@ nav a {
 .search-form input {
     padding: 0.5rem;
     font-size: 1.2rem;
-    border: none;
+    border: 2px solid #2F4F4F;
     border-radius: 5px;
     width: 300px;
+    color: #2F4F4F;
 }
 
 .search-form button {
     padding: 0.5rem 1rem;
     font-size: 1.2rem;
     border: none;
-    background-color: #F2DDDE; /* Kolor akcentujący */
+    background-color: #F2DDDE; /* Kolor przycisku */
     color: #2F4F4F;
     border-radius: 5px;
     cursor: pointer;
@@ -120,7 +123,7 @@ nav a {
 }
 
 footer {
-    background-color: #2F4F4F;
+    background-color: #2F4F4F; /* Szary footer */
     color: #FFFFFF;
     padding: 1rem 0;
     text-align: center;

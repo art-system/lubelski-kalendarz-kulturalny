@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #F7B1AE;
+    background-color: #FCF1F1;
     color: #FFFFFF;
     padding: 1rem 0;
 }
@@ -39,7 +39,7 @@ nav a {
 }
 
 .hero {
-    background-color: #F7B1AE;
+    background-color: #FCF1F1;
     color: #FFFFFF;
     text-align: center;
     padding: 5rem 0;
@@ -73,7 +73,7 @@ nav a {
     padding: 0.5rem 1rem;
     font-size: 1.2rem;
     border: none;
-    background-color: #F7B1AE;
+    background-color: #FCF1F1;
     color: #FFFFFF;
     border-radius: 5px;
     cursor: pointer;
@@ -120,7 +120,7 @@ nav a {
 }
 
 footer {
-    background-color: #2F4F4F;
+    background-color: #FCF1F1;
     color: #FFFFFF;
     padding: 1rem 0;
     text-align: center;

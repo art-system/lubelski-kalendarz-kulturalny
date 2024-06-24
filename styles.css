@@ -40,7 +40,7 @@ nav a {
 
 .hero {
     background-color: #FCF1F1;
-    color: #FFFFFF;
+    color: #6B5347;
     text-align: center;
     padding: 5rem 0;
 }
@@ -74,7 +74,7 @@ nav a {
     font-size: 1.2rem;
     border: none;
     background-color: #FCF1F1;
-    color: #FFFFFF;
+    color: #6B5347;
     border-radius: 5px;
     cursor: pointer;
 }
@@ -91,14 +91,14 @@ nav a {
     font-size: 1.2rem;
     border: 2px solid #FFA07A;
     color: #2F4F4F;
-    background-color: #FFFFFF;
+    background-color: #6B5347;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .featured-events {
     padding: 3rem 0;
-    background-color: #FFFFFF;
+    background-color:#6B5347;
 }
 
 .events-list {
@@ -121,7 +121,7 @@ nav a {
 
 footer {
     background-color: #FCF1F1;
-    color: #FFFFFF;
+    color: #6B5347;
     padding: 1rem 0;
     text-align: center;
 }
@@ -134,6 +134,6 @@ footer nav ul {
 }
 
 footer nav a {
-    color: #FFFFFF;
+    color: #6B5347;
     text-decoration: none;
 }
